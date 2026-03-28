@@ -33,7 +33,7 @@ https://heart-disease-prediction-vaibhav.streamlit.app
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav-bhoyate" target="blank">
+<a href="https://www.linkedin.com/in/vaibhav-bhoyate-6328802a9/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:vaibhavbhoyate976@gmail.com">
