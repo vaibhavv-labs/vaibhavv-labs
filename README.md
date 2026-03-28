@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Vaibhav
 
-<!--
-**vaibhavv-labs/vaibhavv-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI & Data Science Student | Building & Deploying Machine Learning Projects | Streamlit Apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎯 Goal: Become an AI Engineer 
+- 💻 Currently building Machine Learning projects
+- 📚 Learning: Machine Learning, Data Science, Python
+- 🤝 Open to collaborate on ML projects
+
+---
+
+## 🚀 Projects
+
+### ❤️ Heart Disease Prediction System
+
+🔗 GitHub Repo:  
+https://github.com/vaibhavv-labs/Heart-Disease-Prediction  
+
+🌐 Live Demo:  
+https://heart-disease-prediction-vaibhav.streamlit.app
+
+---
+
+## 🛠 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,scikitlearn,streamlit,mongodb,mysql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vaibhavv-labs&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=vaibhavv-labs&theme=radical)
+
+---
+
+## 📫 Contact
+- Email: vaibhavbhoyate976@gmail.com
