@@ -28,6 +28,16 @@ https://github.com/vaibhavv-labs/Heart-Disease-Prediction
 🌐 Live Demo:  
 https://heart-disease-prediction-vaibhav.streamlit.app  
 
+
+
+## SentimentIQ – NLP-Based Social Media Sentiment Analysis Dashboard
+
+🔗 GitHub Repo: 
+https://github.com/vaibhavv-labs/sentimentiq-dashboard
+
+🌐 Live Demo: 
+https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/
+
 ---
 
 ## 🌐 Connect With Me
