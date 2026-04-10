@@ -82,4 +82,3 @@ https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/
   <img src="https://streak-stats.demolab.com?user=vaibhavv-labs&theme=radical&hide_border=true" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs)
