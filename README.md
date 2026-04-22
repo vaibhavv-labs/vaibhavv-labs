@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=32&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Vaibhav+%F0%9F%91%8B;AI+%26+Data+Science+Student;Building+%26+Deploying+ML+Projects;Turning+Data+into+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12&height=200&section=header&text=Vaibhav%20Bhoyate&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=00FF88&strokeWidth=1&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Scientist&descSize=18&descAlignY=75)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=620&lines=Building+real-world+AI+systems+%F0%9F%A7%A0;Fine-tuning+transformers+%7C+Deploying+ML+apps;From+raw+data+%E2%86%92+production+models+%F0%9F%9A%80;Open+to+collabs+%E2%80%94+let%27s+build+something+%F0%9F%94%A5" />
 
 <br/>
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=header&text=Vaibhav%20Bhoyate&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20Data%20Science&descSize=16&descAlignY=78)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)
 
 </div>
 
@@ -16,17 +16,26 @@
 
 ## 🧠 About Me
 
-```python
-vaibhav = {
-    "role"      : "AI & Data Science Student",
-    "focus"     : ["Machine Learning", "NLP", "Deployment"],
-    "currently" : "Building real-world ML projects",
-    "open_to"   : "Collaborations on ML-based projects",
-    "learning"  : ["Deep Learning", "MLOps", "LLMs"],
-    "ask_me"    : ["Python", "ML Basics", "Data Analysis"],
-    "fun_fact"  : "I deploy before I sleep 🚀"
-}
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+🎓 &nbsp; AI & Data Science Student from **Maharashtra, India**
+
+🔭 &nbsp; Currently building **real-world ML projects** that actually ship
+
+🧪 &nbsp; I fine-tune **transformers on free Colab GPUs** and make it work 😅
+
+🚀 &nbsp; My rule: **deploy first, perfect later**
+
+🤝 &nbsp; Open to **collaborations, internships & open source**
+
+💬 &nbsp; Ask me about **Python · ML · Streamlit · HuggingFace**
+
+⚡ &nbsp; Fun fact: **Real projects > tutorials, always.**
+
+<br clear="right"/>
+
+
+
 
 ---
 
