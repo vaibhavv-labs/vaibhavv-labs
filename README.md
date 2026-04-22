@@ -18,7 +18,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-🎓 &nbsp; AI & Data Science Student from **Maharashtra, India**
+🎓 &nbsp; AI & Data Science Student
 
 🔭 &nbsp; Currently building **real-world ML projects** that actually ship
 
