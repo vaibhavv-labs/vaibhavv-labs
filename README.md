@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)[![GitHub followers](https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/vaibhavv-labs?tab=followers)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)
+![Followers](https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS&logo=github)
 
 </div>
 
