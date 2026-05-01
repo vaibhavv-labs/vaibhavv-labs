@@ -156,6 +156,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv-labs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/vaibhavv-labs)
+
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
