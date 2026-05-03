@@ -42,26 +42,49 @@
 
 ---
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
-<div align="center">
-
+### 👨‍💻 Core
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### 🤖 Machine Learning & AI
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00FF88?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+
+---
+
+### 📊 Data & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-00CFFF?style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-00FF88?style=for-the-badge)
+
+---
+
+### 🗄 Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🔧 Dev & Workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+---
+
+### 🧠 Concepts
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF9800?style=for-the-badge)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-9C27B0?style=for-the-badge)
 
 ---
 
