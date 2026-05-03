@@ -137,6 +137,6 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=100&section=footer&desc=thanks+for+visiting+%E2%80%94+go+build+something+%F0%9F%94%A5&descSize=14&descAlignY=65&fontColor=ffffff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00ff88&height=120&section=footer&desc=thanks+for+visiting+—+go+build+something+%F0%9F%94%A5&descSize=14&descAlignY=65&fontColor=ffffff)
 
 </div>
