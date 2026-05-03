@@ -1,139 +1,91 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,12&height=200&section=header&text=Vaibhav%20Bhoyate&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=00FF88&strokeWidth=1&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Scientist&descSize=18&descAlignY=75)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=250&section=header&text=Vaibhav%20Bhoyate&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=●%20AI%20Engineer%20●%20ML%20Developer%20●%20Data%20Scientist%20●&descSize=15&descAlignY=65&descAlign=50&stroke=00ff88&strokeWidth=2)
+
+<a href="https://github.com/vaibhavv-labs">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2000&pause=400&color=00FF88&center=true&vCenter=true&width=600&lines=they+said+learn+first.+i+said+ship+first.+%F0%9F%9A%80;404%3A+tutorial+mode+not+found+%F0%9F%92%80;my+github+is+my+resume.+open+it.+%F0%9F%A7%A0;vaibhav.fit(data).deploy()+%E2%9A%A1;56+repos.+0+excuses.+%F0%9F%94%A5"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=620&lines=Building+real-world+AI+systems+%F0%9F%A7%A0;Fine-tuning+transformers+%7C+Deploying+ML+apps;From+raw+data+%E2%86%92+production+models+%F0%9F%9A%80;Open+to+collabs+%E2%80%94+let%27s+build+something+%F0%9F%94%A5" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)
-![Followers](https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS&logo=github)
+[![](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)
+[![](https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS&logo=github)](https://github.com/vaibhavv-labs?tab=followers)
+[![](https://img.shields.io/badge/REPOS-56-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/vaibhavv-labs?tab=repositories)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-
-🎓 &nbsp; AI & Data Science Student
-
-🔭 &nbsp; Currently building **real-world ML projects** that actually ship
-
-🧪 &nbsp; I fine-tune **transformers on free Colab GPUs** and make it work 😅
-
-🚀 &nbsp; My rule: **deploy first, perfect later**
-
-🤝 &nbsp; Open to **collaborations, internships & open source**
-
-💬 &nbsp; Ask me about **Python · ML · Streamlit · HuggingFace**
-
-⚡ &nbsp; Fun fact: **Real projects > tutorials, always.**
+```javascript
+const vaibhav = {
+  from     : "Maharashtra, India 🇮🇳",
+  role     : "AI & Data Science Student",
+  mantra   : "deploy first. perfect later. 🚀",
+  learning : ["LLMs", "MLOps", "Deep Learning"],
+  openTo   : ["Collabs", "Internships", "OpenSource"],
+  fact     : "fine-tuning LLMs on free Colab T4s 😅",
+  status   : "404: tutorial mode not found 💀"
+}
+```
 
 <br clear="right"/>
 
+---
 
+## ⚡ What I Ship
 
+**🧠 [SentimentIQ](https://github.com/vaibhavv-labs/sentimentiq-dashboard)** — Fine-tuned DistilBERT · Text · CSV · YouTube Live · **82% acc**
+
+![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![](https://img.shields.io/badge/▶_LIVE-00ff88?style=flat-square)](https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/)
+
+**❤️ [Heart Disease AI](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)** — ML Risk Classifier · Real-time · **82% acc**
+
+![](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![](https://img.shields.io/badge/▶_LIVE-ff4466?style=flat-square)](https://heart-disease-prediction-vaibhav.streamlit.app)
+
+**🎯 [FaceID Attendance](https://github.com/vaibhavv-labs)** — OpenCV LBPH · Live Webcam · Auto CSV · Neon UI
+
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![](https://img.shields.io/badge/▶_REPO-5c3ee8?style=flat-square&logo=github)](https://github.com/vaibhavv-labs)
+
+**🌐 [Portfolio](https://portfolio-vaibhav13.vercel.app/)** — React · Three.js 3D · GSAP · WebGL · Vercel
+
+![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+[![](https://img.shields.io/badge/▶_VISIT-00cfff?style=flat-square)](https://portfolio-vaibhav13.vercel.app/)
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Stack
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🧠 SentimentIQ
-> NLP-powered sentiment analysis dashboard using fine-tuned DistilBERT
-
-![NLP](https://img.shields.io/badge/NLP-DistilBERT-yellow?style=flat-square&logo=huggingface)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live-FF4B4B?style=flat-square&logo=streamlit)
-
-- 📝 Single text, bulk CSV & YouTube comments
-- 🎯 82% accuracy on Twitter Sentiment 140
-- 📊 Interactive Plotly charts
-- 🚫 Gibberish detection built-in
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs/sentimentiq-dashboard)
-[![Demo](https://img.shields.io/badge/Live-Demo-00FF88?style=for-the-badge&logo=streamlit)](https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/)
-
-</td>
-<td width="50%">
-
-### ❤️ Heart Disease Prediction
-> ML-based heart disease risk classifier with real-time predictions
-
-![ML](https://img.shields.io/badge/ML-Logistic%20Regression-F7931E?style=flat-square&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-Live-FF4B4B?style=flat-square&logo=streamlit)
-
-- ⚕️ Real-time risk prediction (High / Low)
-- 📈 82% accuracy on healthcare data
-- 💡 Confidence score output
-- 🔍 Risk factor explanations
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)
-[![Demo](https://img.shields.io/badge/Live-Demo-00FF88?style=for-the-badge&logo=streamlit)](https://heart-disease-prediction-vaibhav.streamlit.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 FaceID Attendance System
-> Real-time face recognition attendance tracker using OpenCV LBPH
-
-![CV](https://img.shields.io/badge/OpenCV-LBPH-5C3EE8?style=flat-square&logo=opencv)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit)
-
-- 📷 Live webcam face detection
-- 🟢 Auto-marks present on recognition
-- 💾 Auto CSV export on detection
-- 🖥️ Neon dark UI dashboard
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs)
-
-</td>
-<td width="50%">
-
-### 🌐 Developer Portfolio
-> Personal portfolio built with React, Three.js & GSAP animations
-
-![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
-
-- ⚡ WebGL & Three.js 3D effects
-- 🎨 GSAP scroll animations
-- 📱 Fully responsive design
-- 🚀 Deployed on Vercel
-
-[![Demo](https://img.shields.io/badge/Live-Portfolio-00FF88?style=for-the-badge&logo=vercel)](https://portfolio-vaibhav13.vercel.app/)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
