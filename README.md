@@ -15,22 +15,34 @@
 
 ---
 
+<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-```javascript
-const vaibhav = {
-  from     : "Maharashtra, India 🇮🇳",
-  role     : "AI & Data Science Student",
-  mantra   : "deploy first. perfect later. 🚀",
-  learning : ["LLMs", "MLOps", "Deep Learning"],
-  openTo   : ["Collabs", "Internships", "OpenSource"],
-  fact     : "fine-tuning LLMs on free Colab T4s 😅",
-  status   : "404: tutorial mode not found 💀"
-}
-```
 
-<br clear="right"/>
+## 👨‍💻 About Me
 
----
+- 📍 **From:** Maharashtra, India 🇮🇳
+- 🎓 **Role:** AI & Data Science Student  
+- 🚀 **Mantra:** deploy first. perfect later.   
+- 🧠 **Learning:** LLMs · MLOps · Deep Learning  
+- 🤝 **Open to:** Collaborations · Internships · Open Source  
+- 😅 **fact:** fine-tuning LLMs on free Colab T4s  
+- 💀 **Status:** 404: tutorial mode not found  
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+</td>
+
+</tr>
+</table>
+</div>
+
+
+
 
 ## ⚡ What I Ship
 
