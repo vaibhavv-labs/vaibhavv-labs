@@ -50,6 +50,7 @@
 ---
 
 ### 🤖 Machine Learning & AI
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00FF88?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge)
