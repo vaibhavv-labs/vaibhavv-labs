@@ -15,7 +15,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230"/>
 
 ```javascript
 const vaibhav = {
