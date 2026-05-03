@@ -46,72 +46,15 @@
 
 ## ⚡ What I Ship
 
-<br/>
+| Project | Tech | Live |
+|---|---|---|
+| 🧠 **[SentimentIQ](https://github.com/vaibhavv-labs/sentimentiq-dashboard)** — DistilBERT sentiment analysis · 82% acc | `NLP` `HuggingFace` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-00FF88?style=flat-square)](https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/) |
+| ❤️ **[Heart Disease AI](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)** — ML risk classifier · 82% acc | `sklearn` `Pandas` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-FF4466?style=flat-square)](https://heart-disease-prediction-vaibhav.streamlit.app) |
+| 🎯 **[FaceID Attendance](https://github.com/vaibhavv-labs)** — OpenCV LBPH · live webcam · auto CSV | `OpenCV` `NumPy` `Streamlit` | [![Repo](https://img.shields.io/badge/▶-Repo-5C3EE8?style=flat-square)](https://github.com/vaibhavv-labs) |
+| 🌐 **[Portfolio](https://portfolio-vaibhav13.vercel.app/)** — React · Three.js · GSAP · WebGL | `React` `TypeScript` `Vercel` | [![Demo](https://img.shields.io/badge/▶-Visit-00CFFF?style=flat-square)](https://portfolio-vaibhav13.vercel.app/) |
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🧠 SentimentIQ Dashboard
-> NLP · Real-time · YouTube · Bulk CSV
-
-Fine-tuned **DistilBERT** for multi-source sentiment analysis. Drops opinions on YouTube live comments in real-time. 82% accuracy. No cap.
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-00ff88?style=for-the-badge)](https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs/sentimentiq-dashboard)
-
-</td>
-<td width="50%">
-
-### ❤️ Heart Disease AI
-> Clinical ML · Risk Scoring · Confidence Intervals
-
-Real-time heart disease risk prediction using **Logistic Regression**. Outputs probability scores, not just yes/no. Because your life isn't binary. 82% accuracy.
-
-![Sklearn](https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-ff4466?style=for-the-badge)](https://heart-disease-prediction-vaibhav.streamlit.app)
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 FaceID Attendance System
-> Computer Vision · Live Webcam · Zero Spreadsheets
-
-**OpenCV LBPH** facial recognition that auto-marks attendance and exports CSV. Because humans shouldn't do what machines can. Neon dark UI because aesthetics matter.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/▶_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavv-labs)
-
-</td>
-<td width="50%">
-
-### 🌐 3D Developer Portfolio
-> React · Three.js · GSAP · WebGL · TypeScript
-
-A portfolio that is itself a project. **3D WebGL** canvas, GSAP scroll animations, cinematic transitions. Built to flex. Deployed to impress.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[![Visit](https://img.shields.io/badge/▶_VISIT_SITE-00cfff?style=for-the-badge)](https://portfolio-vaibhav13.vercel.app/)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -144,10 +87,6 @@ A portfolio that is itself a project. **3D WebGL** canvas, GSAP scroll animation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavv-labs&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00cfff&text_color=e8e8f0" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv-labs&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00ff88&text_color=e8e8f0" width="48%"/>
-</p>
 
 ## 🔥 Streak
 
@@ -187,6 +126,6 @@ A portfolio that is itself a project. **3D WebGL** canvas, GSAP scroll animation
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=100&section=footer&desc=thanks+for+visiting+%E2%80%94+go+build+something+%F0%9F%94%A5&descSize=14&descAlignY=65&fontColor=ffffff)
 
 </div>
