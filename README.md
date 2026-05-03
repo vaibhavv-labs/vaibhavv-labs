@@ -15,34 +15,21 @@
 
 ---
 
-<div align="center">
-<table>
-<tr>
-<td width="60%">
-
-
 ## 👨‍💻 About Me
 
-- 📍 **From:** Maharashtra, India 🇮🇳
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+</p>
+
+- 📍 **From:** Maharashtra, India 🇮🇳  
 - 🎓 **Role:** AI & Data Science Student  
-- 🚀 **Mantra:** deploy first. perfect later.   
+- 🚀 **Mantra:** deploy first. perfect later.  
 - 🧠 **Learning:** LLMs · MLOps · Deep Learning  
 - 🤝 **Open to:** Collaborations · Internships · Open Source  
-- 😅 **fact:** fine-tuning LLMs on free Colab T4s  
+- 😅 **Fact:** fine-tuning LLMs on free Colab T4s  
 - 💀 **Status:** 404: tutorial mode not found  
 
-</td>
-
-<td width="40%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</td>
-
-</tr>
-</table>
-</div>
-
-
-
+---
 
 ## ⚡ What I Ship
 
@@ -52,9 +39,6 @@
 | ❤️ **[Heart Disease AI](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)** — ML risk classifier · 82% acc | `sklearn` `Pandas` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-FF4466?style=flat-square)](https://heart-disease-prediction-vaibhav.streamlit.app) |
 | 🎯 **[FaceID Attendance](https://github.com/vaibhavv-labs)** — OpenCV LBPH · live webcam · auto CSV | `OpenCV` `NumPy` `Streamlit` | [![Repo](https://img.shields.io/badge/▶-Repo-5C3EE8?style=flat-square)](https://github.com/vaibhavv-labs) |
 | 🌐 **[Portfolio](https://portfolio-vaibhav13.vercel.app/)** — React · Three.js · GSAP · WebGL | `React` `TypeScript` `Vercel` | [![Demo](https://img.shields.io/badge/▶-Visit-00CFFF?style=flat-square)](https://portfolio-vaibhav13.vercel.app/) |
-
----
-
 
 ---
 
@@ -87,6 +71,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+---
 
 ## 🔥 Streak
 
@@ -102,8 +87,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv-labs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/vaibhavv-labs)
 
+</div>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
