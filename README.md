@@ -35,7 +35,7 @@
 
 | Project | Tech | Live |
 |---|---|---|
-| 🧠 **[SentimentIQ](https://github.com/vaibhavv-labs/sentimentiq-dashboard)** — DistilBERT sentiment analysis · 82% acc | `NLP` `HuggingFace` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-00FF88?style=flat-square)](https://sentimentiq-dashboard-njiprgwlcchwkuemvrqwn4.streamlit.app/) |
+| 🧠 **[SentimentIQ](https://github.com/vaibhavv-labs/sentimentiq-dashboard)** — DistilBERT sentiment analysis · 82% acc | `NLP` `HuggingFace` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-00FF88?style=flat-square)](https://sentimentiq-dashboard.onrender.com) |
 | ❤️ **[Heart Disease AI](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)** — ML risk classifier · 82% acc | `sklearn` `Pandas` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-FF4466?style=flat-square)](https://heart-disease-prediction-vaibhav.streamlit.app) |
 | 🎯 **[FaceID Attendance](https://github.com/vaibhavv-labs)** — OpenCV LBPH · live webcam · auto CSV | `OpenCV` `NumPy` `Streamlit` | [![Repo](https://img.shields.io/badge/▶-Repo-5C3EE8?style=flat-square)](https://github.com/vaibhavv-labs) |
 | 🌐 **[Portfolio](https://portfolio-vaibhav13.vercel.app/)** — React · Three.js · GSAP · WebGL | `React` `TypeScript` `Vercel` | [![Demo](https://img.shields.io/badge/▶-Visit-00CFFF?style=flat-square)](https://portfolio-vaibhav13.vercel.app/) |
