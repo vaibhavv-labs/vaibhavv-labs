@@ -27,7 +27,7 @@
 - 🧠 **Learning:** LLMs · MLOps · Deep Learning  
 - 🤝 **Open to:** Collaborations · Internships · Open Source  
 - 😅 **Fact:** fine-tuning LLMs on free Colab T4s  
-- 💀 **Status:** 404: tutorial mode not found  
+- 💀 **Status:** 404: tutorial mode not found.  
 
 ---
 
