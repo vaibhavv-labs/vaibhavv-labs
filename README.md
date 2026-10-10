@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100%" src="https://github.com/vaibhavv-labs/vaibhavv-labs/blob/main/art/AI_ML%20Engineer%20Portfolio%20Banner.png?raw=true" alt="Vaibhav Bhoyate AI/ML Banner"/>
-</p>
+</p> 
 
 <h1 align="center">
   Hey there, I'm <span style="color:#00F5A0;">Vaibhav</span>
