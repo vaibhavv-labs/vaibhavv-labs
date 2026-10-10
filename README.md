@@ -1,142 +1,258 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff88&height=250&section=header&text=Vaibhav%20Bhoyate&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=●%20AI%20Engineer%20●%20ML%20Developer%20●%20Data%20Scientist%20●&descSize=15&descAlignY=65&descAlign=50&stroke=00ff88&strokeWidth=2)
-
 <a href="https://github.com/vaibhavv-labs">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2000&pause=400&color=00FF88&center=true&vCenter=true&width=600&lines=they+said+learn+first.+i+said+ship+first.+%F0%9F%9A%80;404%3A+tutorial+mode+not+found+%F0%9F%92%80;my+github+is+my+resume.+open+it.+%F0%9F%A7%A0;vaibhav.fit(data).deploy()+%E2%9A%A1;56+repos.+0+excuses.+%F0%9F%94%A5"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:071C26,70:063D36,100:00F5A0&text=VAIBHAV%20BHOYATE&fontSize=48&fontColor=FFFFFF&fontAlignY=39&desc=AI%20%2F%20ML%20%E2%80%A2%20LEARNING%20IN%20PUBLIC&descSize=14&descAlignY=59&animation=fadeIn" alt="Vaibhav Bhoyate profile banner"/>
 </a>
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=vaibhavv-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/vaibhavv-labs)
-[![](https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&color=00cfff&labelColor=0d1117&label=FOLLOWERS&logo=github)](https://github.com/vaibhavv-labs?tab=followers)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=700&color=00F5A0&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Document+%E2%86%92+Repeat+%F0%9F%94%81;Turning+concepts+into+working+projects.;From+import+torch+to+intelligent+systems.;Learning.+Experimenting.+Documenting." alt="Animated developer tagline"/>
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavv-labs"><img src="https://img.shields.io/badge/GitHub-vaibhavv--labs-07111A?style=for-the-badge&logo=github&logoColor=00F5A0" alt="GitHub"/></a>
+<a href="https://portfolio-vaibhav13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-07111A?style=for-the-badge&logo=vercel&logoColor=00CFFF" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-bhoyate-6328802a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-07111A?style=for-the-badge&logo=linkedin&logoColor=00CFFF" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vaibhavv-labs&style=flat-square&color=00F5A0&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">⌁ NEURAL DIMENSION / 01</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
+  <em>A code-native view of how signals move through a neural network.</em>
 </p>
 
-- 📍 **From:** Maharashtra, India 🇮🇳  
-- 🎓 **Role:** AI & Data Science Student  
-- 🚀 **Mantra:** deploy first. perfect later.  
-- 🧠 **Learning:** LLMs · MLOps · Deep Learning  
-- 🤝 **Open to:** Collaborations · Internships · Open Source  
-- 😅 **Fact:** fine-tuning LLMs on free Colab T4s  
-- 💀 **Status:** 404: tutorial mode not found.  
-
----
-
-## ⚡ What I Ship
-
-| Project | Tech | Live |
-|---|---|---|
-| 🧠 **[SentimentIQ](https://github.com/vaibhavv-labs/sentimentiq-dashboard)** — DistilBERT sentiment analysis · 82% acc | `NLP` `HuggingFace` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-00FF88?style=flat-square)](https://sentimentiq-dashboard.onrender.com) |
-| ❤️ **[Heart Disease AI](https://github.com/vaibhavv-labs/Heart-Disease-Prediction)** — ML risk classifier · 82% acc | `sklearn` `Pandas` `Streamlit` | [![Demo](https://img.shields.io/badge/▶-Live-FF4466?style=flat-square)](https://heart-disease-prediction-vaibhav.streamlit.app) |
-| 🎯 **[FaceID Attendance](https://github.com/vaibhavv-labs)** — OpenCV LBPH · live webcam · auto CSV | `OpenCV` `NumPy` `Streamlit` | [![Repo](https://img.shields.io/badge/▶-Repo-5C3EE8?style=flat-square)](https://github.com/vaibhavv-labs) |
-| 🌐 **[Portfolio](https://portfolio-vaibhav13.vercel.app/)** — React · Three.js · GSAP · WebGL | `React` `TypeScript` `Vercel` | [![Demo](https://img.shields.io/badge/▶-Visit-00CFFF?style=flat-square)](https://portfolio-vaibhav13.vercel.app/) |
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Core
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🤖 Machine Learning & AI
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00FF88?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-
----
-
-### 📊 Data & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-00CFFF?style=for-the-badge)
-
----
-
-### ⚙️ Tools & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Model Deployment](https://img.shields.io/badge/Model%20Deployment-00FF88?style=for-the-badge)
-
----
-
-### 🗄 Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 🔧 Dev & Workflow
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 🧠 Concepts
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF9800?style=for-the-badge)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-9C27B0?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhavv-labs&theme=radical&hide_border=true&background=0a0a0f&stroke=00ff88&ring=00cfff&fire=ff4466&currStreakLabel=00ff88" width="55%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
+<div align="center">
+  <img width="100%" src="./assets/neural-network.svg" alt="Neural network layers and connected nodes"/>
+</div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavv-labs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/vaibhavv-labs)
+`DATA` ⟶ `LEARNING` ⟶ `INTELLIGENCE` ⟶ `DEPLOYMENT`
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">⌘ THE HUMAN BEHIND THE MODEL</h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vaibhav-bhoyate-6328802a9/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:vaibhavbhoyate976@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://portfolio-vaibhav13.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="https://github.com/vaibhavv-labs" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/va1bhav__09?igsh=MWpjNHBkNWl0bHhoZw==" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### Hey, I'm Vaibhav 👋
+
+AI & Data Science engineering student from Maharashtra, India.
+
+I'm exploring Machine Learning, Deep Learning, NLP, Transformers, and Generative AI through practical projects and continuous learning.
+
+This GitHub is my public engineering log: projects, experiments, code, lessons, and progress.
+
+- 🧠 Machine Learning & Deep Learning
+- 🤖 NLP, Transformers & Generative AI
+- ⚙️ Practical applications and model deployment
+- 📚 Learning in public, one commit at a time
+- 🤝 Open to collaborations and opportunities
+
+**My loop:** `Learn → Build → Document → Repeat 🔁`
+
+</td>
+<td width="38%" valign="top">
+
+```python
+class Vaibhav:
+    field = "AI & Data Science"
+    focus = [
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Generative AI",
+    ]
+    workflow = (
+        "Learn → Build → "
+        "Document → Repeat"
+    )
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">▦ SELECTED BUILDS</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 SentimentIQ
+
+Text sentiment analysis using a DistilBERT-based model.
+
+`NLP` `DistilBERT` `Streamlit`
+
+[Repository](https://github.com/vaibhavv-labs/sentimentiq-dashboard) · [Live demo](https://sentimentiq-dashboard.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
+
+An educational ML classification project exploring prediction and evaluation.
+
+`Scikit-learn` `Pandas` `Streamlit`
+
+[Repository](https://github.com/vaibhavv-labs/Heart-Disease-Prediction) · [Live demo](https://heart-disease-prediction-vaibhav.streamlit.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 FaceID Attendance
+
+Face-recognition attendance using OpenCV's LBPH approach and CSV records.
+
+`OpenCV` `NumPy` `CSV`
+
+[Browse repositories](https://github.com/vaibhavv-labs?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio built with a modern visual experience.
+
+`React` `Three.js` `GSAP`
+
+[Visit portfolio](https://portfolio-vaibhav13.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">∴ MACHINE LEARNING, VISUALIZED</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Decision Space</h3>
+<img width="100%" src="./assets/decision-space.svg" alt="Illustrative two-class machine learning decision boundary"/>
+<p align="center"><sub>Illustrative diagram · not trained model output</sub></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Tensor Field</h3>
+<img width="100%" src="./assets/tensor-field.svg" alt="Tensor grid visualization"/>
+<p align="center"><sub>Visual metaphor for multidimensional data</sub></p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">⟡ TECHNOLOGY CONSTELLATION</h2>
+
+<p align="center"><em>The tools behind my learning and projects</em></p>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:00ff88&height=120&section=footer&desc=thanks+for+visiting+—+go+build+something+%F0%9F%94%A5&descSize=14&descAlignY=65&fontColor=ffffff)
+**CORE & DATA**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,mongodb&theme=dark" alt="Python, C++, MySQL and MongoDB"/>
+
+<br/>
+
+**MACHINE LEARNING & AI**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow and Scikit-learn"/>
+
+<br/>
+
+**DEVELOPMENT & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,react,nextjs,fastapi,flask,firebase,docker&theme=dark" alt="Git, GitHub, React, Next.js, FastAPI, Flask, Firebase and Docker"/>
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/FOCUS-Model%20Evaluation-00F5A0?style=flat-square&labelColor=07111A" alt="Model evaluation"/>
+<img src="https://img.shields.io/badge/FOCUS-NLP-00CFFF?style=flat-square&labelColor=07111A" alt="NLP"/>
+<img src="https://img.shields.io/badge/FOCUS-Transformers-8B5CF6?style=flat-square&labelColor=07111A" alt="Transformers"/>
+<img src="https://img.shields.io/badge/FOCUS-Deployment-00F5A0?style=flat-square&labelColor=07111A" alt="Deployment"/>
+</p>
+
+---
+
+<h2 align="center">⌁ THE BUILD FREQUENCY</h2>
+
+<p align="center"><em>Every contribution leaves a trace.</em></p>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=07111A&color=00F5A0&line=00CFFF&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20GITHUB%20ACTIVITY" alt="GitHub activity graph"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavv-labs&show_icons=true&hide_border=true&bg_color=07111A&title_color=00F5A0&icon_color=00CFFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavv-labs&layout=compact&hide_border=true&bg_color=07111A&title_color=00F5A0&text_color=C9D1D9" alt="Most-used languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=vaibhavv-labs&theme=dark&hide_border=true&background=07111A&ring=00F5A0&fire=00CFFF&currStreakLabel=00F5A0" alt="GitHub streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/vaibhavv-labs">
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhavv-labs&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">↻ THE ITERATION LOOP</h2>
+
+<div align="center">
+
+`01 / LEARN` ⟶ `02 / BUILD` ⟶ `03 / DOCUMENT` ⟶ `04 / REPEAT`
+
+<br/><br/>
+
+**Not just learning concepts. Turning them into working projects.**
+
+</div>
+
+---
+
+<h2 align="center">⌘ CONNECT / COLLABORATE</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-bhoyate-6328802a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vaibhavbhoyate976@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://portfolio-vaibhav13.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-00F5A0?style=for-the-badge&logo=vercel&logoColor=07111A" alt="Portfolio"/></a>
+<a href="https://github.com/vaibhavv-labs?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-00CFFF?style=for-the-badge&logo=github&logoColor=07111A" alt="Projects"/></a>
+
+<br/><br/>
+
+**Learn → Build → Document → Repeat 🔁**
+
+<sub>One commit at a time.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00F5A0,50:063D36,100:020617" alt="Footer banner"/>
 
 </div>
