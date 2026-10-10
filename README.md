@@ -91,7 +91,7 @@
   <a href="https://github.com/vaibhavv-labs">
     <img src="https://img.shields.io/badge/GitHub-071C26?style=for-the-badge&logo=github&logoColor=00F5A0"/>
   </a>
-  <a href="https://www.instagram.com/va1bhav__09/">
+  <a href="https://www.instagram.com/__vaibhav.0x/">
     <img src="https://img.shields.io/badge/Instagram-087F70?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
