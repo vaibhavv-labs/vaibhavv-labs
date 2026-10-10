@@ -19,8 +19,7 @@ jobs:
         with:
           github_user_name: vaibhavv-labs
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+             dist/github-contribution-grid-snake.svg?color_snake=%23EF93C4&color_dots=%23FCE4EC,%23F8BBD0,%23F48FB1,%23EF93C4,%23D16BA5
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
