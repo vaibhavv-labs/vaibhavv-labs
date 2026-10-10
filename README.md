@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  See you in the next commit 💚
+ ~ See you in the next commit 
 </p>
 
 <p align="center">
