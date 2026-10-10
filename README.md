@@ -20,14 +20,25 @@
 
 <table align="center">
 <tr>
-<td width="65%" valign="top">
+<td width="65%" align="center" valign="middle">
 
-- 🎓 Final-year AI & Data Science Engineering student at SNJB's K.B.J. College of Engineering.
-- 🤖 Focused on Machine Learning, Deep Learning, NLP and LLMs.
-- 🛠️ Building practical AI/ML projects using Python.
-- 🚀 Exploring Generative AI and model deployment.
-- 🎯 Aspiring ML Engineer focused on solving real-world problems.
-- 🌱 Learning, building and sharing my journey through code.
+<h3>Hey, I'm Vaibhav 👋</h3>
+
+<p>
+AI & Data Science engineering student from India,<br/>
+learning to turn ideas into intelligent systems.
+</p>
+
+<p>
+<b>Exploring:</b><br/>
+ML · Deep Learning · NLP · GenAI
+</p>
+
+<p>
+<code>curiosity()</code> → <code>experiment()</code> → <code>build()</code> → <code>repeat()</code> ↻
+</p>
+
+<p><i>Still learning. Always building.</i></p>
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -37,6 +48,7 @@
 </td>
 </tr>
 </table>
+```
 
 <h2 align="center">💻 Tech Stack</h2>
 
