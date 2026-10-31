@@ -17,6 +17,8 @@
   <img src="https://komarev.com/ghpvc/?username=vaibhavv-labs&style=for-the-badge&color=2F6FAE&label=PROFILE+VIEWS"/>
 </p>
 
+---
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table align="center">
@@ -50,6 +52,8 @@ ML · Deep Learning · NLP · GenAI
 </tr>
 </table>
 
+---
+
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
@@ -68,6 +72,8 @@ ML · Deep Learning · NLP · GenAI
   <img src="https://img.shields.io/badge/Jupyter-0B1F3A?style=flat&logo=jupyter&logoColor=B8DDF5"/>
 </p>
 
+---
+
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
@@ -75,18 +81,22 @@ ML · Deep Learning · NLP · GenAI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 </p>
+
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg?v=2"
+    alt="Ice Blue GitHub Contribution Snake"
     width="100%"
   />
 </p>
+
+---
 
 <h2 align="center">🌐 Let's Connect</h2>
 
