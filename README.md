@@ -90,7 +90,7 @@ ML · Deep Learning · NLP · GenAI
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg?v=2"
+    <img src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg?v=3" width="100%" alt="Contribution Snake"/>
     alt="Ice Blue GitHub Contribution Snake"
     width="100%"
   />
