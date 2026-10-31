@@ -14,10 +14,8 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/vaibhavv-labs?style=for-the-badge&logo=github&label=Followers&color=B8DDF5&labelColor=0B1F3A" />
   <img src="https://img.shields.io/github/stars/vaibhavv-labs?style=for-the-badge&logo=github&label=Stars&color=B8DDF5&labelColor=0B1F3A" />
-  <img src="https://komarev.com/ghpvc/?username=vaibhavv-labs&style=for-the-badge&color=2F6FAE&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=vaibhavv-labs&style=for-the-badge&color=5B9BD5&label=PROFILE+VIEWS"/>
 </p>
-
----
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -52,18 +50,16 @@ ML · Deep Learning · NLP · GenAI
 </tr>
 </table>
 
----
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,mysql&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,mysql&perline=9" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-0B1F3A?style=flat&logo=numpy&logoColor=B8DDF5"/>
   <img src="https://img.shields.io/badge/Pandas-102C50?style=flat&logo=pandas&logoColor=B8DDF5"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0B1F3A?style=flat&logo=plotly&logoColor=D9EEFF"/>
+  <img src="https://img.shields.io/badge/Matplotlib-173E68?style=flat&logo=plotly&logoColor=D9EEFF"/>
   <img src="https://img.shields.io/badge/Seaborn-173E68?style=flat&logoColor=D9EEFF"/>
   <img src="https://img.shields.io/badge/SQL-102C50?style=flat&logo=mysql&logoColor=B8DDF5"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-0B1F3A?style=flat&logoColor=B8DDF5"/>
@@ -72,8 +68,6 @@ ML · Deep Learning · NLP · GenAI
   <img src="https://img.shields.io/badge/Jupyter-0B1F3A?style=flat&logo=jupyter&logoColor=B8DDF5"/>
 </p>
 
----
-
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
@@ -81,22 +75,18 @@ ML · Deep Learning · NLP · GenAI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true"/>
 </p>
-
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img
-    <img src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg?v=3" width="100%" alt="Contribution Snake"/>
-    alt="Ice Blue GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
-
----
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -119,9 +109,9 @@ ML · Deep Learning · NLP · GenAI
 </p>
 
 <p align="center">
-  ~ See you in the next commit
+ ~ See you in the next commit
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06172B,35:0B1F3A,70:2F6FAE,100:B8DDF5&height=140&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,35:0B1F3A,70:2F6FAE,100:B8DDF5&height=140&section=footer"/>
 </p>
