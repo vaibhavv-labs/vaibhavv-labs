@@ -22,7 +22,8 @@ jobs:
         with:
           github_user_name: vaibhavv-labs
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23B8DDF5&color_dots=%230B1F3A,%230B1F3A,%230B1F3A,%230B1F3A,%230B1F3A
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23B8DDF5&color_dots=%230B1F3A,%23102C50,%23173E68,%235B9BD5,%23B8DDF5
+
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v4
