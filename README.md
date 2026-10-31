@@ -74,10 +74,6 @@ ML · Deep Learning · NLP · GenAI
   <img src="https://streak-stats.demolab.com?user=vaibhavv-labs&hide_border=true&background=0B1F3A&ring=B8DDF5&fire=5B9BD5&currStreakLabel=D9EEFF&sideLabels=B8DDF5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91AFCB" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
-</p>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">

@@ -1,4 +1,4 @@
-name: Generate Contribution Snake and Activity Graph
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -17,9 +17,6 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate Icy Blue Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,15 +24,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23B8DDF5&color_dots=%230D1117,%23102C50,%23173E68,%235B9BD5,%23D9EEFF
 
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: vaibhavv-labs
-          options: bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish SVGs to output branch
+      - name: Publish SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
