@@ -75,7 +75,7 @@ ML · Deep Learning · NLP · GenAI
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavv-labs&bg_color=0B1F3A&color=B8DDF5&line=5B9BD5&point=D9EEFF&area=true&area_color=173E68&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/vaibhavv-labs/vaibhavv-labs/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
