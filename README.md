@@ -93,7 +93,7 @@ ML · Deep Learning · NLP · GenAI
   <a href="mailto:vaibhavbhoyate976@gmail.com">
     <img src="https://img.shields.io/badge/Email-173E68?style=for-the-badge&logo=gmail&logoColor=D9EEFF"/>
   </a>
-  <a href="https://portfolio-vaibhav13.vercel.app/">
+  <a href="https://vaibhavv.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-102C50?style=for-the-badge&logo=vercel&logoColor=B8DDF5"/>
   </a>
   <a href="https://github.com/vaibhavv-labs">
